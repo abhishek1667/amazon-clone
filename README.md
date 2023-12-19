@@ -4,7 +4,7 @@ Welcome to the Amazon Clone website project! This project is a simple representa
 
 ## Project Website
 
-Explore the project live on amazon-clone-010.onrender.com! click here &nbsp;&nbsp; &#8594; &nbsp;&nbsp;[![Project Icon](website_icon.png)](https://amazon-clone-010.onrender.com)
+Explore the live project by clicking here to check it out. [![Project Icon](curved-right-arrow.png)] &#8594; &nbsp;&nbsp;[![Project Icon](web_icon.png)](https://amazon-clone-010.onrender.com)
 
 
 ## Getting Started
